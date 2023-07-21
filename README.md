@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryan.gois)
 </br>
 
-I'm Ryan Gois, a passionate software developer and technology enthusiast. I currently work as a Freelancer and studying CS in college (4/8)</br>
+I'm Ryan Gois, a passionate software developer and technology enthusiast. I currently work as a Freelancer and study CS in college for bachelor's degree (4/8)</br>
 
 # 🚀 Expertise
 
