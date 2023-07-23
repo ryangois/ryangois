@@ -1,6 +1,6 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Ryan%20Gois-9e3efe?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/) 
-[![Gmail Badge](https://img.shields.io/badge/-ryangoisdev@gmail.com-9e3efe?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryangoisdev@gmail.com)](mailto:ryangoisdev@gmail.com)
-[![Instagram](https://img.shields.io/badge/ryan.gois-9e3efe.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryan.gois)
+[![Linkedin Badge](https://img.shields.io/badge/-Ryan%20Gois-be64dc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/) 
+[![Gmail Badge](https://img.shields.io/badge/-ryangoisdev@gmail.com-be64dc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryangoisdev@gmail.com)](mailto:ryangoisdev@gmail.com)
+[![Instagram](https://img.shields.io/badge/ryan.gois-be64dc.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryan.gois)
 </br>
 
 I'm Ryan Gois, a passionate software developer and technology enthusiast. I currently work as a Freelancer and study CS in college for bachelor's degree (4/8)</br>
