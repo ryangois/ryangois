@@ -24,7 +24,7 @@ College:
 Google UX Certification (2/7) at </br>
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 
-CS50 at 
+CS50 (2/10) at 
 </br> 
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
