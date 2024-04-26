@@ -4,6 +4,7 @@
 </br>
 
 I'm Ryan Gois, a passionate software developer and technology enthusiast. I currently work as a Freelancer and study CS in college for bachelor's degree (5/8)</br>
+Currently working at TechnipFMC
 
 # 🚀 Expertise
 
