@@ -3,8 +3,7 @@
 [![Instagram](https://img.shields.io/badge/ryan.gois-be64dc.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryan.gois)
 </br>
 
-I'm Ryan Gois, a passionate software developer and technology enthusiast. I currently work as a Freelancer and study CS in college for bachelor's degree (5/8)</br>
-Currently working at TechnipFMC
+I'm Ryan Gois, a passionate software developer and technology enthusiast. I currently work at TechnipFMC and study CS in college for bachelor's degree (6/8)</br>
 
 # 🚀 Expertise
 
@@ -23,12 +22,9 @@ College:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-Google UX Certification (3/7) at </br>
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
-
-CS50 (2/10) at 
-</br> 
-![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
+Credentials: </br>
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) (CCNA)
+![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) (UX Design)
 
 
          
