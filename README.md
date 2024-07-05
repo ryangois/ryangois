@@ -21,7 +21,7 @@ Fullstack development, following the best UX and architecture pratices. I have e
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-### Certificates/Certifications
+### 🏆 Certificates/Certifications
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) (CCNA & Network Security) ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) (UX Design)
 
 
