@@ -22,7 +22,7 @@ Fullstack development, following the best UX and architecture pratices. I have e
 
 
 ### 🏆 Certificates/Certifications
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) (CCNA & Network Security) ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) (UX Design)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) (CCNA & Network Security) ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) (UX Design) AZ-900
 
 
          
