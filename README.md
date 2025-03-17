@@ -29,4 +29,4 @@ Studying for: AWS Cloud Pratitioner and Associate level.
 
          
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryangois&theme=neon&hide_border=false"  width="400px" /> ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=ryangois&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryangois&theme=neon&hide_border=false"  width="400px" />                        ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=ryangois&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
