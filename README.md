@@ -3,10 +3,10 @@
 [![Instagram](https://img.shields.io/badge/ryan.gois-be64dc.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryan.gois)
 </br>
 
+
 I'm Ryan Gois, a passionate software developer and technology enthusiast. I currently work at TechnipFMC and study CS in college for bachelor's degree (7/8)</br>
 
 # 🚀 Expertise
-
 Fullstack development, following the best UX and architecture pratices. I have extensive knowledge of the field, and I'm proficient in the most popular frameworks and libraries that allows to combine creativity and problem-solving skills. </br> 
 
 ## 🔄 DevOps Stack
@@ -27,7 +27,7 @@ Studying for: AWS Cloud Pratitioner and Associate level.
 
 Coursing: Google Cybersecurity Fundamentals
 
+---
 
-         
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryangois&theme=neon&hide_border=false"  width="400px" />                        ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=ryangois&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryangois&theme=neon&hide_border=false"  width="400px" />                       
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=ryangois&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
