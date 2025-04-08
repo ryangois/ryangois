@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Ryan%20Gois-be64dc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/) 
+[![LinkedIn Badge](https://img.shields.io/badge/-Ryan%20Gois-be64dc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/) 
 [![Gmail Badge](https://img.shields.io/badge/-ryangoisdev@gmail.com-be64dc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryangoisdev@gmail.com)](mailto:ryangoisdev@gmail.com)
 [![Instagram](https://img.shields.io/badge/ryan.gois-be64dc.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryan.gois)
 </br>
@@ -29,5 +29,4 @@ Coursing: Google Cybersecurity Fundamentals
 
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryangois&theme=neon&hide_border=false"  width="400px" />                       
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=ryangois&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryangois&theme=neon&hide_border=false"  width="400px" /> <img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=ryangois&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="290px" />
