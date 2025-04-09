@@ -1,6 +1,6 @@
-[![LinkedIn Badge](https://img.shields.io/badge/-Ryan%20Gois-be64dc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/) 
-[![Gmail Badge](https://img.shields.io/badge/-ryangoisdev@gmail.com-be64dc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryangoisdev@gmail.com)](mailto:ryangoisdev@gmail.com)
-[![Instagram](https://img.shields.io/badge/ryan.gois-be64dc.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryan.gois)
+[![LinkedIn Badge](https://img.shields.io/badge/-Ryan%20Gois-004687?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryangois)](https://www.linkedin.com/in/) 
+[![Gmail Badge](https://img.shields.io/badge/-ryangoisdev@gmail.com-004687?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryangoisdev@gmail.com)](mailto:ryangoisdev@gmail.com)
+[![Instagram](https://img.shields.io/badge/ryan.gois-004687.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryan.gois)
 </br>
 
 
@@ -30,3 +30,10 @@ Coursing: Google Cybersecurity Fundamentals ![Google](https://img.shields.io/bad
 ---
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryangois&theme=neon&hide_border=false"  width="400px" /> <img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=ryangois&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="290px" />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryangois&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ryangois&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryangois&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
