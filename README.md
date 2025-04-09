@@ -23,9 +23,9 @@ Fullstack development, following the best UX and architecture pratices. I have e
 ### 🏆 Certificates/Certifications
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) (CCNA & Network Security) ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) (UX Design) ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8) AZ-900
 
-Studying for: AWS Cloud Pratitioner and Associate level.
+Studying for: AWS Cloud Pratitioner and Associate level. ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-Coursing: Google Cybersecurity Fundamentals
+Coursing: Google Cybersecurity Fundamentals ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
