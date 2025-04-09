@@ -1,4 +1,4 @@
-[![LinkedIn Badge](https://img.shields.io/badge/-Ryan%20Gois-004687?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryangois)](https://www.linkedin.com/in/) 
+[![LinkedIn Badge](https://img.shields.io/badge/-Ryan%20Gois-004687?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ryangois](https://www.linkedin.com/in/ryan-gois/))](https://www.linkedin.com/in/) 
 [![Gmail Badge](https://img.shields.io/badge/-ryangoisdev@gmail.com-004687?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryangoisdev@gmail.com)](mailto:ryangoisdev@gmail.com)
 [![Instagram](https://img.shields.io/badge/ryan.gois-004687.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryan.gois)
 </br>
