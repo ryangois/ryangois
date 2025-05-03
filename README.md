@@ -28,12 +28,10 @@ Studying for: AWS Cloud Pratitioner and Associate level. ![AWS](https://img.shie
 Coursing: Google Cybersecurity Fundamentals ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryangois&theme=neon&hide_border=false"  width="400px" /> <img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=ryangois&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="290px" />
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryangois&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ryangois&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryangois&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryangois&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ryangois&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryangois&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
+###
