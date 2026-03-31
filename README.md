@@ -4,7 +4,7 @@
 </br>
 
 
-I'm Ryan Gois, a passionate software developer and technology enthusiast. I currently work at TechnipFMC and study CS in college for bachelor's degree (7/8)</br>
+I'm Ryan Gois, a passionate software developer and technology enthusiast. I currently work at TechnipFMC </br>
 
 # 🚀 Expertise
 Fullstack development, following the best UX and architecture pratices. I have extensive knowledge of the field, and I'm proficient in the most popular frameworks and libraries that allows to combine creativity and problem-solving skills. </br> 
