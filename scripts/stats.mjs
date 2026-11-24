@@ -13,7 +13,7 @@ const TOP = 8;
 const EXCLUDE_LANGS = new Set(["Jupyter Notebook"]);
 const COLORS = {
   JavaScript: "#f1e05a", TypeScript: "#3178c6", Python: "#3572A5", HCL: "#844FBA",
-  Go: "#00ADD8", PowerShell: "#012456", CSS: "#663399", HTML: "#e34c26",
+  Go: "#00ADD8", PowerShell: "#5391FE", CSS: "#663399", HTML: "#e34c26",
   Java: "#b07219", C: "#555555", Shell: "#89e051", PHP: "#4F5D95", SCSS: "#c6538c",
   Dockerfile: "#384d54", "Go Template": "#00ADD8", Bicep: "#519aba", PLpgSQL: "#336790",
   Vue: "#41b883", Svelte: "#ff3e00",
