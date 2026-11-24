@@ -92,6 +92,19 @@ The ancients split the sky into seven planets, each ruling a part of life. I spl
 | 🗂️ **[Role Mapper](https://github.com/ryangois/role_mapper)** | Navigable org chart showing who owns what in a team | JavaScript |
 | 🍉 **[Watermelon Game](https://github.com/ryangois/watermelon-game)** | Physics-based fruit-merging game in the browser | JavaScript · Matter.js |
 
+#### 🔒 Private builds
+
+Most of my work lives in private repos. A few I can talk about:
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🎓 **Ynys Môn Portal** | Educational platform with auth, data governance, tests and Docker. Full-stack, from architecture to production | React · TypeScript · Supabase · Docker |
+| 🧬 **BioQuali** | Production app on a Linux VPS with its own domain and private infra. I own deploy, server and operations | PHP · Linux · VPS |
+| 🏋️ **Multi-Personal** | Multi-tenant platform for personal trainers, ready for a VPS with Coolify | Next.js · Supabase · Coolify |
+| 🏛️ **Personal site** | Winged Victory of Samothrace rendered live in Three.js. CSP, a11y tests, Terraform infra and CI | Three.js · Playwright · Terraform · Azure |
+| 🐕 **Scent Hound Studio** | Pipeline for animated vertical shorts about perfume: SVG rig, editor, voice timing, renderer | JavaScript · SVG |
+| 🌸 **Nota de Pele** | Editorial perfume site with reviews, guides and affiliate-link management | TypeScript |
+
 <details>
 <summary><b>🧪 On the workbench</b> (not shipped yet)</summary>
 <br/>
@@ -143,7 +156,7 @@ The ancients split the sky into seven planets, each ruling a part of life. I spl
 ### 📊 Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryangois&layout=compact&card_width=340&langs_count=8&theme=github_dark&hide_border=true&exclude_repo=k2tf" height="165" alt="Top languages" />
+  <img src="./assets/languages.svg" height="165" alt="Most used languages across all repositories, public and private" />
   <img src="https://streak-stats.demolab.com?user=ryangois&theme=github-dark-blue&hide_border=true&border_radius=6" height="165" alt="GitHub streak" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryangois&theme=github-compact&area=true&hide_border=true&radius=12" width="100%" alt="Contribution graph" />
