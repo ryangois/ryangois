@@ -196,11 +196,6 @@ Most of my work lives in private repos. A few I can talk about:
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ryangois&theme=github-dark-blue&hide_border=true&border_radius=6" />
     <img src="https://streak-stats.demolab.com?user=ryangois&theme=default&border=d1d9e0&border_radius=6" height="165" alt="GitHub streak" />
   </picture>
-  <br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryangois/ryangois/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/ryangois/ryangois/output/github-snake.svg" width="100%" alt="Snake eating my contribution graph" />
-  </picture>
 </div>
 
 ---
