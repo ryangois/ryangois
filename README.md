@@ -115,9 +115,9 @@ The ancients split the sky into seven planets, each ruling a part of life. I spl
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🚦 **[ToggleMaster](https://github.com/ryangois/fiap-postech-tc-fase2)** | Feature-flag platform split into 5 microservices: Docker locally, Kubernetes (EKS) on AWS, provisioned with Terraform | Go · Python · EKS · SQS · DynamoDB · Redis |
+| 🚦 **[ToggleMaster](https://github.com/ryangois/fiap-postech-tc-fase2)** | Feature-flag platform split into 5 microservices: Docker locally, Kubernetes (EKS) on AWS with HPA, KEDA and Pod Identity | Go · Python · EKS · SQS · DynamoDB · Redis |
 | 🏛️ **[Azure Landing Zone](https://github.com/ryangois/az_landing_zone)** | Reference platform landing zone as code: management groups, subscriptions, policies, shared services | Terraform · Azure |
-| ⚡ **[Serverless To-Do](https://github.com/ryangois/serverless-to-do-app)** | Event-driven, function-based backend with near-zero ops overhead | TypeScript · Serverless |
+| ⚡ **[Serverless To-Do](https://github.com/ryangois/serverless-to-do-app)** | Go Lambda + API Gateway + DynamoDB, all in Terraform (work in progress) | Go · Terraform · AWS Lambda |
 | 🛠️ **[VM SDD Update](https://github.com/ryangois/VM_SDD_update)** | Automation for repeatable VM maintenance and operational routines | PowerShell · Azure |
 | 🏋️ **[Diaita Mobile](https://github.com/ryangois/diaita-mobile)** | Training, diet and body-progress app: workout plans, food diary, progress dashboards | TypeScript · React Native · Expo |
 | 🔮 **[Hermetika](https://github.com/ryangois/lamen)** | Interactive hermetic encyclopedia: the 72 angels, Tree of Life, Tarot and gematria in one visual, installable app | React · Vite · Supabase · PWA |
