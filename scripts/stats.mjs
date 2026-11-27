@@ -80,9 +80,13 @@ const legend = top.map((l, i) => {
 }).join("");
 
 const date = new Date().toISOString().slice(0, 10);
-const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Most used languages across all repositories">
-<style>.h{font:600 17px 'Segoe UI',Ubuntu,sans-serif;fill:#58a6ff}.t{font:400 12px 'Segoe UI',Ubuntu,sans-serif;fill:#c9d1d9}.m{fill:#8b949e}.f{font:400 10.5px 'Segoe UI',Ubuntu,sans-serif;fill:#8b949e}</style>
-<rect width="${W}" height="${H}" rx="6" fill="#0d1117"/>
+const THEMES = {
+  dark: { bg: "#0d1117", title: "#58a6ff", text: "#c9d1d9", muted: "#8b949e", border: "none" },
+  light: { bg: "#ffffff", title: "#0969da", text: "#1f2328", muted: "#59636e", border: "#d1d9e0" },
+};
+const render = (th) => `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Most used languages across all repositories">
+<style>.h{font:600 17px 'Segoe UI',Ubuntu,sans-serif;fill:${th.title}}.t{font:400 12px 'Segoe UI',Ubuntu,sans-serif;fill:${th.text}}.m{fill:${th.muted}}.f{font:400 10.5px 'Segoe UI',Ubuntu,sans-serif;fill:${th.muted}}</style>
+<rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" rx="6" fill="${th.bg}" stroke="${th.border}"/>
 <text x="${PAD}" y="34" class="h">Languages · all repos</text>
 <clipPath id="c"><rect x="${PAD}" y="${BAR_Y}" width="${BAR_W}" height="8" rx="4"/></clipPath>
 <g clip-path="url(#c)">${bar}</g>
@@ -92,6 +96,7 @@ ${legend}
 `;
 
 await mkdir("assets", { recursive: true });
-await writeFile("assets/languages.svg", svg);
-console.log(`Wrote assets/languages.svg: ${own.length} repos, ${privateCount} private`);
+await writeFile("assets/languages.svg", render(THEMES.dark));
+await writeFile("assets/languages-light.svg", render(THEMES.light));
+console.log(`Wrote assets/languages{,-light}.svg: ${own.length} repos, ${privateCount} private`);
 console.log(top.map((l) => `${l.name} ${l.pct.toFixed(1)}%`).join(", "));

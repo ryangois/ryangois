@@ -35,6 +35,28 @@ When I'm not in a Terraform plan, I'm somewhere between philosophy, art and scie
 
 </div>
 
+<details>
+<summary><b>🇧🇷 Leia em português</b></summary>
+<br/>
+
+Sou **Cloud Infrastructure Engineer na TechnipFMC**, trabalhando com arquitetura, migração, FinOps e operações em **Azure e AWS** junto a times globais. Comecei cedo: aos **16 anos já desenvolvia software como freelancer full stack**, com clientes reais, prazos reais e soluções que precisavam funcionar na segunda-feira.
+
+Sou **bacharel em Ciência da Computação** pela Estácio e estou cursando a **pós-graduação em DevOps e Arquitetura Cloud na FIAP**. Entrei na TechnipFMC como estagiário em 2024 e, desde dezembro de 2025, sou engenheiro de infraestrutura cloud.
+
+- 🏢 **4** datacenters globais migrados para a nuvem
+- 💰 **US$ 2,5 mi+** economizados em ciclos de FinOps
+- 🚀 **24+** projetos de grande porte entregues
+
+**Agora:** estudando Platform Engineering (infraestrutura como produto interno), IA aplicada à operação e formas mais humanas de explicar sistemas complexos.
+
+Fora do código, vivo entre filosofia, arte e ciência. Engenharia exige lógica e método; arte e filosofia nos convidam a imaginar o que ainda não existe. **Engenheiro de nuvem. Aprendiz de todo o resto.**
+
+*Clareza antes da complexidade · Curiosidade antes da certeza · Sistemas devem servir às pessoas*
+
+📬 Vamos conversar: [ryangoisdev@gmail.com](mailto:ryangoisdev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ryan-gois/)
+
+</details>
+
 ---
 
 ### 🪐 Seven domains, one center
@@ -57,15 +79,24 @@ The ancients split the sky into seven planets, each ruling a part of life. I spl
 
 <p align="center">
   <b>Cloud & IaC</b><br/>
-  <img src="https://skillicons.dev/icons?i=azure,aws,terraform,docker,kubernetes,linux,githubactions,powershell,bash&theme=dark" alt="Cloud and IaC skills" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure,aws,terraform,docker,kubernetes,linux,githubactions,powershell,bash&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,terraform,docker,kubernetes,linux,githubactions,powershell,bash&theme=light" alt="Cloud and IaC skills" />
+  </picture>
 </p>
 <p align="center">
   <b>Code & data</b><br/>
-  <img src="https://skillicons.dev/icons?i=python,go,ts,js,java,c,postgres,redis,supabase&theme=dark" alt="Languages and data skills" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,go,ts,js,java,c,postgres,redis,supabase&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,go,ts,js,java,c,postgres,redis,supabase&theme=light" alt="Languages and data skills" />
+  </picture>
 </p>
 <p align="center">
   <b>Web</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,threejs,html,css,sass,figma&theme=dark" alt="Web skills" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,threejs,html,css,sass,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,threejs,html,css,sass,figma&theme=light" alt="Web skills" />
+  </picture>
 </p>
 
 <p align="center">
@@ -89,6 +120,7 @@ The ancients split the sky into seven planets, each ruling a part of life. I spl
 | ⚡ **[Serverless To-Do](https://github.com/ryangois/serverless-to-do-app)** | Event-driven, function-based backend with near-zero ops overhead | TypeScript · Serverless |
 | 🛠️ **[VM SDD Update](https://github.com/ryangois/VM_SDD_update)** | Automation for repeatable VM maintenance and operational routines | PowerShell · Azure |
 | 🏋️ **[Diaita Mobile](https://github.com/ryangois/diaita-mobile)** | Training, diet and body-progress app: workout plans, food diary, progress dashboards | TypeScript · React Native · Expo |
+| 🔮 **[Hermetika](https://github.com/ryangois/lamen)** | Interactive hermetic encyclopedia: the 72 angels, Tree of Life, Tarot and gematria in one visual, installable app | React · Vite · Supabase · PWA |
 | 🗂️ **[Role Mapper](https://github.com/ryangois/role_mapper)** | Navigable org chart showing who owns what in a team | JavaScript |
 | 🍉 **[Watermelon Game](https://github.com/ryangois/watermelon-game)** | Physics-based fruit-merging game in the browser | JavaScript · Matter.js |
 
@@ -156,10 +188,19 @@ Most of my work lives in private repos. A few I can talk about:
 ### 📊 Activity
 
 <div align="center">
-  <img src="./assets/languages.svg" height="165" alt="Most used languages across all repositories, public and private" />
-  <img src="https://streak-stats.demolab.com?user=ryangois&theme=github-dark-blue&hide_border=true&border_radius=6" height="165" alt="GitHub streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryangois&theme=github-compact&area=true&hide_border=true&radius=12" width="100%" alt="Contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.svg" />
+    <img src="./assets/languages-light.svg" height="165" alt="Most used languages across all repositories, public and private" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ryangois&theme=github-dark-blue&hide_border=true&border_radius=6" />
+    <img src="https://streak-stats.demolab.com?user=ryangois&theme=default&border=d1d9e0&border_radius=6" height="165" alt="GitHub streak" />
+  </picture>
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryangois/ryangois/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/ryangois/ryangois/output/github-snake.svg" width="100%" alt="Snake eating my contribution graph" />
+  </picture>
 </div>
 
 ---
